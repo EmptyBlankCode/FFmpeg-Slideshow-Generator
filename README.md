@@ -1,5 +1,4 @@
 # FFmpeg-Slideshow-Generator
-# FFmpeg-Slideshow-Generator
 
 This Python script leverages FFmpeg to create slideshow-like videos from a collection of images, seamlessly applying a variety of transition effects between them. 
 
